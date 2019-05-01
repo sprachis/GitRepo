@@ -1,5 +1,9 @@
 class A {
  public static void main(String args[]){
+<<<<<<< HEAD
+     System.out.println("Hello dog");
+=======
      System.out.println("Hello cat");
+>>>>>>> branch1
  }
 }
