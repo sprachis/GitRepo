@@ -1,5 +1,0 @@
-hello
-print("add some choco")
-print("hello world")
-print("do late")
-hiii
