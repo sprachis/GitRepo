@@ -1,6 +1,11 @@
 class A {
  public static void main(String args[]){
+<<<<<<< HEAD
      System.out.println("Hello mat");
+=======
+     System.out.println("Hello cat");
+     System.out.println("Hello cat");
+>>>>>>> 49c871bd2985c6e2a34b12d89eb6c7da81a5562f
  }
 }
 
